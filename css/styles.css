@@ -186,6 +186,10 @@ text-transform: none;
 color: var(--secondary-text-color);
 }
 
+.features-list-h3 {
+    font-size: 14px;
+}
+
 .our-team-header {
     font-weight: 700;
 font-size: 36px;
